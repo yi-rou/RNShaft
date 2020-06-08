@@ -1,0 +1,12 @@
+NursingStationFloor	-2
+Ceiling			5
+StationWall		-1
+BorderWall		-1
+TreeUp			0
+Door			0
+DoorHander		1
+RoomNumber		1
+Windor			0
+WashMachineMain		0
+Hander			0
+C:\Program Files\Unity\Hub\Editor\2019.2.13f1
