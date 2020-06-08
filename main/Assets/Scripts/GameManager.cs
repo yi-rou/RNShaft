@@ -3,6 +3,9 @@ using System.Collections.Generic;
 using UnityEngine.SceneManagement;
 using UnityEngine;
 
+/// <summary>
+/// 地圖轉移
+/// </summary>
 public class GameManager : MonoBehaviour
 {
 
