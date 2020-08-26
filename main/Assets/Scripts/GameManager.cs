@@ -24,13 +24,18 @@ public class GameManager : MonoBehaviour
         SceneManager.LoadScene(2);
     }
 
-     public void betRoom3()
-     {
+    public void betRoom3()
+    {
         SceneManager.LoadScene(3);
     }
 
-     public void betRoom4()
-     {
+    public void betRoom4()
+    {
         SceneManager.LoadScene(4);
+    }
+
+    public void InDoor()
+    {
+
     }
 }
